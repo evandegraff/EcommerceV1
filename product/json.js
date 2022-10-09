@@ -11,11 +11,11 @@ fetch('/music.data.json')
 
     // document.querySelector('ol').innerHTML = list;
 let list = "";
-    json.Employee.forEach(Employee => {
+    json.Products.forEach(Products => {
         console.log(`beginning of loop${list}`)
-        list += `<li>${Employee.userId}</li>`
+        list += `<li>${Products}</li>`
         console.log(`end of loop ${list}`);
 });
 document.querySelector('ol').innerHTML = list;
-document.querySelector('purple').innerHTML = json.Employees[0].jobTitle;
+document.querySelector('purple').innerHTML = json.Products[0].name;
 })

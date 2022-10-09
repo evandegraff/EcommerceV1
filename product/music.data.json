@@ -1,0 +1,88 @@
+{
+    "Products": [
+        { 
+        "id": "1",
+        "images":"/productimages/AKG_C214.jpeg" ,
+         "productName": "AKG C214",
+         "specs": "AKG's industry-leading C414 microphones are already a permanent fixture in the world's biggest recording studios, and are a highly respected workhorse for independent artists, broadcasting and onstage miking as well.",
+         "price": "$465.99"
+        },
+        { 
+        "id":"2" ,
+        "images":"",
+         "productName":"Audio technica AT2020" ,
+         "specs": "AKG's industry-leading C414 microphones are already a permanent fixture in the world's biggest recording studios, and are a highly respected workhorse for independent artists, broadcasting and onstage miking as well.",
+         "price": "$99.99"
+        },
+        { 
+            "id": "3",
+            "images":"" ,
+             "productName": "MLX 990",
+             "specs": "The MXL 990 remains one of the industry's most ground-breaking microphones",
+             "price": "$99.95"
+            },
+            { 
+                "id": "4",
+                "images": "",
+                 "productName": "Scarlett 212 audio interface",
+                 "specs":"One of the most popular audio interface for artists across all genres, the third-generation Scarlett 2i2 provides two mic/line/instrument inputs, allowing simultaneous recording and playback of up to two channels with independently controllable headphone and monitor outputs.",
+                 "price": "$179.99"
+                },
+                { 
+                    "id": "5",
+                    "images":"" ,
+                     "productName": "Yamaha HS5",
+                     "specs":"Unlike studio monitors with added bass or treble frequencies which may sound more flattering at first, HS Series speakers were designed to give you the most honest, precise reference possible, providing an ideal sonic platform to build on throughout the mixing process." ,
+                     "price": "$199.99"
+                    },
+                    { 
+                        "id":"6" ,
+                        "images": "",
+                         "productName": "Yamaha HS8",
+                         "specs":"This proven HS8 8' 2-way powered studio monitor produces the flat, natural sound quality professionals count on to consistently create honest, accurate mixes.",
+                         "price": "$398.99"
+                        },
+                        { 
+                            "id": "7",
+                            "images":"" ,
+                             "productName":"Pro Tools 1 Year subscription" ,
+                             "specs":"Pro Tools Artist is ideal for those looking to make professional-quality music and beats with easy-to-use creative tools.",
+                             "price":"$99.99" 
+                            },
+                            { 
+                                "id": "8",
+                                "images":"" ,
+                                 "productName":"Logic Pro",
+                                 "specs":"Logic Pro is a complete collection of sophisticated creative tools for professional songwriting, beat making, editing, and mixing, built around a modern interface that's designed to get results quickly and also deliver more power whenever it's needed.",
+                                 "price":"199.99" 
+                                },
+                                { 
+                                    "id": "9",
+                                    "images":"" ,
+                                     "productName":"Audio-Technica ATH-M20x" ,
+                                     "specs":"The ATH-Mx Series headphones are a reliable source for monitoring in home and professional studio environments.",
+                                     "price":"$49.00"
+                                    },
+                                    { 
+                                        "id": "10",
+                                        "images":"" ,
+                                         "productName":"Reflection Filter",
+                                         "specs":"This microphone isolation shield kit is Great for professional vocal / acoustic recording and podcasting sound booth.",
+                                         "price":"35.99"
+                                        },
+                                        { 
+                                            "id": "11",
+                                            "images":"" ,
+                                             "productName": "Adjustable Mic Stand",
+                                             "specs":"Basics Adjustable Boom Height Microphone Stand with Tripod Base, Up to 85.75 Inches - Black" ,
+                                             "price":"$30.99"
+                                            },
+                                            { 
+                                                "id": "12",
+                                                "images":"" ,
+                                                 "productName":"Microphone Pop Filter" ,
+                                                 "specs":"The first screen blocks air blasts as any pop filter normally would; The gap in between then disperses any remaining air pressure, so by the time it passes the second screen, the blast is easily contained to produce great quality recordings.",
+                                                 "price": "$15.99"
+                                                }
+    ]
+}
